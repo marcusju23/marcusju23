@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=Hello+there%2C+I'm+Marcus." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Marcus." alt="Typing SVG" /></a>
 
 I'm on a journey to learn Java development and eager to unravel the nuances of programming. 
 As I navigate through the world of code, curiosity fuels my relentless desire to expand my programming horizons. 
