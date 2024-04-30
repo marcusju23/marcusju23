@@ -2,11 +2,11 @@
 
 I'm on a journey to learn Java development and eager to unravel the nuances of programming. 
 As I navigate through the world of code, curiosity fuels my relentless desire to expand my programming horizons. 
-I'm open to collaboration and always up for tackling new challenges, especially projects related to Java.
+I'm open to collaboration and up for tackling new challenges.
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/marcusju23"><img src="https://skillicons.dev/icons?i=idea,java,py,bash,git,github,githubactions,docker,postman,spring,mongodb,mysql,sqlite,postgres"> </a> </p>
+<p align="left"> <a href="https://github.com/marcusju23"><img src="https://skillicons.dev/icons?i=java,py,bash,idea,spring,git,github,githubactions,docker,mysql,mongodb,postman"> </a> </p>
 
 ## OS
 
