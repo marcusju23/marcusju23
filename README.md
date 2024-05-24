@@ -2,7 +2,7 @@
 
 I'm on a journey to learn Java development and eager to unravel the nuances of programming. 
 As I navigate through the world of code, curiosity fuels my relentless desire to expand my programming horizons. 
-I'm open to collaboration and up for tackling new challenges.
+I'm open to collaboration and up for new challenges.
 
 ## Languages and Tools
 
