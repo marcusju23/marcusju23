@@ -6,7 +6,7 @@ I'm open to collaboration.
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/marcusju23"><img src="https://skillicons.dev/icons?i=java,py,bash,idea,spring,git,docker,mongodb,mysql,postman"> </a> </p>
+<p align="left"> <a href="https://github.com/marcusju23"><img src="https://skillicons.dev/icons?i=java,spring,py,js,vue,html,css,bash,idea,git,docker,mongodb,mysql,postman"> </a> </p>
 
 ## OS
 
